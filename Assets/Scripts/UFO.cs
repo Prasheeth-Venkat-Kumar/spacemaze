@@ -81,14 +81,14 @@ public class UFO : MonoBehaviour
         // trigger the expo animation
         GetComponent<Animator>().SetTrigger("expo");
         // destroy the UFO after the animation is done
-        Destroy(gameObject, 0.6f);
+        Destroy(gameObject);
     }
 
     public void animateAndDestroy(){
         // trigger the expo animation
         GetComponent<Animator>().SetTrigger("expo");
         // destroy the UFO after the animation is done
-        Destroy(gameObject, 0.6f);
+        Destroy(gameObject);
     }
 
 
