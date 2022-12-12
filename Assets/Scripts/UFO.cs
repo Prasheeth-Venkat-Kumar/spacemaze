@@ -52,6 +52,11 @@ public class UFO : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // as the UFO moves towards the player, it gets smaller
+        size = transform.localScale.x;
+        size -= 0.0001f;
+        transform.localScale = new Vector3(size, size, 1);
+
        // if path is not null, move towards the player
         if (path == null){
               return;
