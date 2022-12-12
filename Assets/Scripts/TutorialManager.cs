@@ -31,7 +31,7 @@ public class TutorialManager : MonoBehaviour
         currentStep++;
         if(currentStep == 1){
             infoTitle.text = "Mechanics";
-            infoBody.text = "Use W to propel the ship forward, A and D to rotate the ship, and Space to fire.\n ";
+            infoBody.text = "Use W to propel the ship forward, A and D to rotate the ship, and Click to fire.\n ";
         }
         else if(currentStep == 2){
             infoTitle.text = "Obstacles";
