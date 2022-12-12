@@ -1,0 +1,1345 @@
+fileFormatVersion: 2
+guid: cd3247542618a444b9764350b0a6243c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908b3064b4f1158429867ab5b43bd35f
+      internalID: -1347456017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 768
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fb7551a56640b45a0e047cfe56716e
+      internalID: 406765248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 768
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35f3c43a5076047b17aaff294999e9
+      internalID: 1329188414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 768
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04c11cbe30107640a674e9978dcd155
+      internalID: -1116152747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 768
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a457ee18877140f4d90d2cf06a071184
+      internalID: -601963003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 768
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae9a85db18ad84c87320fc88ac1c7a
+      internalID: 1638634089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 654
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86364b5e3e1bc0d4099fd9e9e26e36cf
+      internalID: -2132929251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 698
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a31104bb158eb4182c9eb04d9ae79b
+      internalID: -510354703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 696
+        width: 101
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2310a2eede22fd241b03ba9c1e61d928
+      internalID: 1982200931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333411b80c5038c418d0f6b5475e3c90
+      internalID: -119350634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0300df71a8197694db081cd4fa22b951
+      internalID: 1928754156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e611ec3e2acc48be28294e85557f0
+      internalID: -920605820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cfe8670e3793b4399697b952f532a3
+      internalID: -1231851476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080cd93bf67efb940a88ea283dfe71a3
+      internalID: -86507404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6554b903d3a99f40aa5c130d9afdb4f
+      internalID: 1269024205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 480
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100af4ad1dfe5934a90a3bcd078d3826
+      internalID: 1788641230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 504
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0ab24854fd5a4abfc6997f1413020
+      internalID: 313115295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 504
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446dae8e4e7b41a46bf4cd25d75fc7ef
+      internalID: -417377837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 502
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b9ea7547944346afab39c0d44c941
+      internalID: 952804636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 502
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1925314fa9ceb4d84dd934d7e68cf7
+      internalID: 216826077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 500
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd740753c08d2b4e8226b56c60c7527
+      internalID: 1214919698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 500
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353de4624ea9a1f48a511ff2ee036dff
+      internalID: -47649539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 504
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68f4f8bcd910bf45b9cefccf6d1419e
+      internalID: -511832552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 504
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed8956adfd580f498b83ba6975c6913
+      internalID: 1326040535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 502
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f22423eb5d46c4a9b4f9393fac13f5
+      internalID: -344043105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 502
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d341b4dfa007043931598a04688d25
+      internalID: 1570559477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 485
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0449d877c73641e4192276d55cbddbab
+      internalID: -1739206212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b239f9cfa02924eac586771b7e6e0b
+      internalID: -1270593705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 409
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a73ee4270835244810ddb4905705f3
+      internalID: -761255766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 407
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14729a1936d99b042a9978868a526941
+      internalID: 897891404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 407
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46f723551540f499e85ba2fec3366b
+      internalID: 429554556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 403
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a76670258c211a40850836da22d0518
+      internalID: -690744505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 403
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f5d42ae38eacb45a9ed155725c3f11
+      internalID: 908101671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 406
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f4bd8b5b77644baab6d1c18e95f92
+      internalID: 106424763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 406
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9547549e19142f44d99a6714faa0b361
+      internalID: -1245996694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 361
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f408a8b4369394c87605faf34a263c
+      internalID: 876656410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 372
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22dceb6eab7a254b848d8e395bc4791
+      internalID: 1642884387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 266
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93eda50e03466d4a9ab72b3aadd87e6
+      internalID: -424004495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 306
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f39a6b6916ed74488e196bff1fe09df
+      internalID: -1780240212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 306
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756669fee397a5c4f9f11062c5444084
+      internalID: 80035626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 303
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf553b00f4bcf7439b9a7b4037febd3
+      internalID: -736061667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 303
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e8daccf3da8df458aac15f236b04c6
+      internalID: -2021135842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 310
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442332c8ae073a147aedbb974a05deeb
+      internalID: -1861975287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 310
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3efa16363ffa1e4ea3bafbd800d5727
+      internalID: -451090534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 306
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dda23a8bd2cf34d981e9ecc4ad2524
+      internalID: 1091631257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 306
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db694a0855dd12408f1237cf3088ac5
+      internalID: 2266674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 279
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e917c3d1bfdec044684cfb4e2a99df17
+      internalID: -1029278351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 151
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956cd7f72fbf6f4481484d0183b5610
+      internalID: 648456255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f4151d24c65a949bd543badc1e23c7
+      internalID: 1757501720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 105
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f59b79453521d4ab80561a753883c6
+      internalID: 1046826862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb604acab562e6641bb4e33efaadd15a
+      internalID: -2116258883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e335d0d25bbcb6d48a68a77bd1a9fd42
+      internalID: 75862606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8de594c0ee050c46907147725ae794f
+      internalID: 1972179023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 33
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54167be7956b0524f9e6d5a6a4346c4e
+      internalID: 1315329393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Vehicles Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9e2098f2a24b84ca7a09df4bdfd93f
+      internalID: -423787129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cyber Vehicles Sprite Sheet_38: -1780240212
+      Cyber Vehicles Sprite Sheet_2: 1329188414
+      Cyber Vehicles Sprite Sheet_9: -119350634
+      Cyber Vehicles Sprite Sheet_52: 1972179023
+      Cyber Vehicles Sprite Sheet_35: 876656410
+      Cyber Vehicles Sprite Sheet_36: 1642884387
+      Cyber Vehicles Sprite Sheet_32: 908101671
+      Cyber Vehicles Sprite Sheet_3: -1116152747
+      Cyber Vehicles Sprite Sheet_0: -1347456017
+      Cyber Vehicles Sprite Sheet_26: -1739206212
+      Cyber Vehicles Sprite Sheet_42: -1861975287
+      Cyber Vehicles Sprite Sheet_40: -736061667
+      Cyber Vehicles Sprite Sheet_34: -1245996694
+      Cyber Vehicles Sprite Sheet_8: 1982200931
+      Cyber Vehicles Sprite Sheet_31: -690744505
+      Cyber Vehicles Sprite Sheet_1: 406765248
+      Cyber Vehicles Sprite Sheet_12: -1231851476
+      Cyber Vehicles Sprite Sheet_21: -47649539
+      Cyber Vehicles Sprite Sheet_37: -424004495
+      Cyber Vehicles Sprite Sheet_5: 1638634089
+      Cyber Vehicles Sprite Sheet_46: -1029278351
+      Cyber Vehicles Sprite Sheet_15: 1788641230
+      Cyber Vehicles Sprite Sheet_18: 952804636
+      Cyber Vehicles Sprite Sheet_25: 1570559477
+      Cyber Vehicles Sprite Sheet_24: -344043105
+      Cyber Vehicles Sprite Sheet_45: 2266674
+      Cyber Vehicles Sprite Sheet_22: -511832552
+      Cyber Vehicles Sprite Sheet_33: 106424763
+      Cyber Vehicles Sprite Sheet_11: -920605820
+      Cyber Vehicles Sprite Sheet_27: -1270593705
+      Cyber Vehicles Sprite Sheet_54: -423787129
+      Cyber Vehicles Sprite Sheet_4: -601963003
+      Cyber Vehicles Sprite Sheet_29: 897891404
+      Cyber Vehicles Sprite Sheet_28: -761255766
+      Cyber Vehicles Sprite Sheet_23: 1326040535
+      Cyber Vehicles Sprite Sheet_16: 313115295
+      Cyber Vehicles Sprite Sheet_13: -86507404
+      Cyber Vehicles Sprite Sheet_53: 1315329393
+      Cyber Vehicles Sprite Sheet_43: -451090534
+      Cyber Vehicles Sprite Sheet_20: 1214919698
+      Cyber Vehicles Sprite Sheet_48: 1757501720
+      Cyber Vehicles Sprite Sheet_10: 1928754156
+      Cyber Vehicles Sprite Sheet_14: 1269024205
+      Cyber Vehicles Sprite Sheet_17: -417377837
+      Cyber Vehicles Sprite Sheet_51: 75862606
+      Cyber Vehicles Sprite Sheet_44: 1091631257
+      Cyber Vehicles Sprite Sheet_47: 648456255
+      Cyber Vehicles Sprite Sheet_30: 429554556
+      Cyber Vehicles Sprite Sheet_41: -2021135842
+      Cyber Vehicles Sprite Sheet_7: -510354703
+      Cyber Vehicles Sprite Sheet_19: 216826077
+      Cyber Vehicles Sprite Sheet_6: -2132929251
+      Cyber Vehicles Sprite Sheet_49: 1046826862
+      Cyber Vehicles Sprite Sheet_50: -2116258883
+      Cyber Vehicles Sprite Sheet_39: 80035626
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
